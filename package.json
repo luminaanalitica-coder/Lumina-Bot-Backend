@@ -1,0 +1,1 @@
+{"name":"bot-lumina-analitica","version":"1.0.0","main":"index.js","dependencies":{"@google-cloud/functions-framework":"^3.0.0","@google/generative-ai":"^0.24.1","googleapis":"^134.0.0","twilio":"^4.23.0"}}
